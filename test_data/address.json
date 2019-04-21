@@ -1,0 +1,23 @@
+{
+    "address": {
+        "firstName": "Ulhas",
+        "lastName": "Deshmukh",
+        "street": "sec 18",
+        "city": "Navi Mumbai",
+        "zipCode": "400709",
+        "country": "India"
+      },
+    "contactDetails": {
+        "mobile": "+91 9892123456",
+        "fax": "+91 27456789",
+        "email": "ulhas@boximail.com"
+    },
+    "storeDetails": {
+        "storeName": "Aanandi Shop",
+        "language": "Marathi",
+        "companyCode": "U7P3-A8A2",
+        "website": "http://www.ulhasdeshmukh.com",
+        "phone": "+91 27456789",
+        "email": "contact@myshop.com"
+    }
+}
