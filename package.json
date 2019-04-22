@@ -1,0 +1,17 @@
+{
+  "name": "protractor_assignment",
+  "version": "1.0.0",
+  "description": "protractor assignment given while protractor training ",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulhas Deshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "protractor": "5.4.2"
+  },
+  "devDependencies": {
+    "@babel/preset-es2015": "^7.0.0-beta.53"
+  }
+}
